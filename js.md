@@ -4,3 +4,6 @@
 
 ## 2. [Lifecycle Diagram of react components](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 ![diagram](./assets/js2.png)
+
+## 2. [Introducing hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=511s)- Dan Abramov introducing React Hooks in React conf 2018
+![diagram](./assets/js3.png)
