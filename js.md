@@ -8,3 +8,6 @@
 
 ## 3. [Introducing hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=511s)- Dan Abramov introducing React Hooks in React conf 2018
 ![diagram](./assets/js3.png)
+
+## 4. [Introduction to redux by Dan Abramov](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)- Dan Abramov,the creator of redux introducing Redux in the simplest, most eloquent way possible. This short course is better than any youtube tutorial out there.
+![diagram](./assets/js4.png)
