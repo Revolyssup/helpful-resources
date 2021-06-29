@@ -15,3 +15,11 @@
 
 ## 4. [Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)- A decent explaination of when nodejs act single threaded and when it does not.
 ![diagram](./assets/js5.png)
+
+
+## 5. [Event Loop ](https://www.youtube.com/watch?v=8aGhZQkoFbQ)- Sweet explaination of event loop on the browser for beginners.(Same for the node,except instead of WebAPI's ,we have C++ API's in node which can themselves spawn more threads)
+![diagram](./assets/js6.png)
+
+
+## 6. [In the Event Loop ](https://www.youtube.com/watch?v=cCOL7MC4Pl0)- Order of execution in Even Loop. Promises using microtasks,animation callbacks and a good quiz at the end to clear the concepts. Overall an insightful talk. (Except for the bit where he tries to crack jokes but tough audience man!!)
+![diagram](./assets/js7.png)
