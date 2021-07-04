@@ -21,5 +21,5 @@
 ![diagram](./assets/js6.png)
 
 
-## 6. [In the Event Loop ](https://www.youtube.com/watch?v=cCOL7MC4Pl0)- Order of execution in Even Loop. Promises using microtasks,animation callbacks and a good quiz at the end to clear the concepts. Overall an insightful talk. (Except for the bit where he tries to crack jokes but tough audience man!!)
+## 6. [In the Event Loop ](https://www.youtube.com/watch?v=cCOL7MC4Pl0)- Order of execution in Event Loop. Promises using microtasks,animation callbacks and a good quiz at the end to clear the concepts. Overall an insightful talk. (Except for the bit where he tries to crack jokes but tough audience man!!)
 ![diagram](./assets/js7.png)
