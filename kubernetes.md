@@ -16,3 +16,8 @@
 ## 4. [Life of a packet through istio](https://www.youtube.com/watch?v=cB611FtjHcQ)- If you have a good idea of kubernetes, especially how networking in kubernetes work, and also have a little idea of what service meshes are, this video is a great deep dive.
 
 ![Event Image](./assets/istio.png)
+
+## 4. [Life of kubernetes watch event](https://www.youtube.com/watch?v=PLSDvFjR9HY)- Watch this before writing custom controllers in kubernetes to understand how the events propogate.
+
+![Event Image](./assets/watch_event.png)
+
