@@ -11,3 +11,8 @@
 
 ## 3. [Linux namespaces, cgroups and more](https://www.youtube.com/watch?v=x1npPrzyKfs)- If you have a basic knowledge of container technology, this is a deep dive in how it is made possible via cgroups, namespaces and union file systems. And a little about container runtimes and OCI as well.
 ![Event Image](./assets/container.png)
+
+
+## 4. [Life of a packet through istio](https://www.youtube.com/watch?v=cB611FtjHcQ)- If you have a good idea of kubernetes, especially how networking in kubernetes work, and also have a little idea of what service meshes are, this video is a great deep dive.
+
+![Event Image](./assets/istio.png)
