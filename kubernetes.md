@@ -21,3 +21,6 @@
 
 ![Event Image](./assets/watch_event.png)
 
+## 5. [Admission Controllers in k8](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)- A good overview blog on how to configure custom webhooks and admssion controllers for incoming CRD's.
+
+![Event Image](./assets/adm.png)
