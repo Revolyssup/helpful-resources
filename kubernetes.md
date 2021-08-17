@@ -12,15 +12,20 @@
 ## 3. [Linux namespaces, cgroups and more](https://www.youtube.com/watch?v=x1npPrzyKfs)- If you have a basic knowledge of container technology, this is a deep dive in how it is made possible via cgroups, namespaces and union file systems. And a little about container runtimes and OCI as well.
 ![Event Image](./assets/container.png)
 
+## 3. [Container networking](https://iximiuz.com/en/posts/container-networking-is-simple/)- Probably, THE BEST article I have read explaining networking in containers.Everything from creating veth pair to establishing successfull communication among network namespaces via bridges. This article is gold. Also this entire [blog](https://iximiuz.com) is gold for anyone interested in cloud native buzzwords.
+![Event Image](./assets/container_networking.png)
 
-## 4. [Life of a packet through istio](https://www.youtube.com/watch?v=cB611FtjHcQ)- If you have a good idea of kubernetes, especially how networking in kubernetes work, and also have a little idea of what service meshes are, this video is a great deep dive.
+## 5. [Life of a packet through istio](https://www.youtube.com/watch?v=cB611FtjHcQ)- If you have a good idea of kubernetes, especially how networking in kubernetes work, and also have a little idea of what service meshes are, this video is a great deep dive.
 
 ![Event Image](./assets/istio.png)
 
-## 4. [Life of kubernetes watch event](https://www.youtube.com/watch?v=PLSDvFjR9HY)- Watch this before writing custom controllers in kubernetes to understand how the events propogate.
+## 6. [Life of kubernetes watch event](https://www.youtube.com/watch?v=PLSDvFjR9HY)- Watch this before writing custom controllers in kubernetes to understand how the events propogate.
 
 ![Event Image](./assets/watch_event.png)
 
-## 5. [Admission Controllers in k8](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)- A good overview blog on how to configure custom webhooks and admssion controllers for incoming CRD's.
+## 7. [Admission Controllers in k8](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)- A good overview blog on how to configure custom webhooks and admssion controllers for incoming CRD's.
 
 ![Event Image](./assets/adm.png)
+## 8. [Demo of Istio features](https://www.youtube.com/watch?v=7cINRP0BFY8)- A good starter demo of Virtual service/Destination rules/ingress/egress in istio.
+
+![Event Image](./assets/istio-demo.png)
