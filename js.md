@@ -23,3 +23,7 @@
 
 ## 6. [In the Event Loop ](https://www.youtube.com/watch?v=cCOL7MC4Pl0)- Order of execution in Event Loop. Promises using microtasks,animation callbacks and a good quiz at the end to clear the concepts. Overall an insightful talk. (Except for the bit where he tries to crack jokes but tough audience man!!)
 ![diagram](./assets/js7.png)
+
+## 7. [A cartoon to webassembly](https://www.youtube.com/watch?v=HktWin_LPf4)- How javascript runs inside of engine, interpretors, compilers, and how webassembly fits into the picture.
+
+![diagram](./assets/jswebass.png)
