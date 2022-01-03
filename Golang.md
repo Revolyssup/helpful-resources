@@ -13,3 +13,7 @@
  ## 3. [Go Design patterns](https://stevenrojasl.medium.com/go-channels-behind-the-scenes-1cce6b1fa844)- Implementation of different design patterns in go.
 
 ![Event image](./assets/go3.png)
+
+## 4. [Go Design patterns and their implementation in GO](https://aly.arriqaaq.com/golang-design-patterns/)- Implementation of creational and behavioral patterns in go with some code snipppets from k8s. 
+
+![Event image](./assets/go.png)

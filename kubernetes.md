@@ -44,3 +44,8 @@
 
 ![Event Image](./assets/istio-demo.png)
 
+
+
+##  [Introduction to Envoy](https://tetrate-academy.thinkific.com/courses/take/envoy-fundamentals/)- A good starter course to understand envoy fundamentals.
+
+![Event Image](./assets/envoy.png)
