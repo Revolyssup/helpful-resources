@@ -49,3 +49,7 @@
 ##  [Introduction to Envoy](https://tetrate-academy.thinkific.com/courses/take/envoy-fundamentals/)- A good starter course to understand envoy fundamentals.
 
 ![Event Image](./assets/envoy.png)
+
+## [Using eBPF to replace kube-proxy](https://www.youtube.com/watch?v=bIRwSIwNHC0)-  Replacing kube-proxy with BPF programs and IPTABLES with BPF maps. A must watch for anyone interested in Kubernetes networking
+
+![Event Image](./assets/cilium.png)
