@@ -53,3 +53,9 @@
 ## [Using eBPF to replace kube-proxy](https://www.youtube.com/watch?v=bIRwSIwNHC0)-  Replacing kube-proxy with BPF programs and IPTABLES with BPF maps. A must watch for anyone interested in Kubernetes networking
 
 ![Event Image](./assets/cilium.png)
+
+##  [Lifecycle of a request in Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/life_of_a_request) - The internals of how a request is processed across both sub-systems in Envoy and a little peak in their code.(basic interface signatures)
+ ![Event image](./assets/envoy-proxy.png)
+
+##  [Promql for mere mortals](https://www.youtube.com/watch?v=hTjHuoWxsks) - Cute introduction on promql and its data types
+ ![Event image](./assets/promql.png)
