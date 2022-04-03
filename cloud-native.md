@@ -1,5 +1,15 @@
  # Kubernetes, Docker and other CNCF project related resources and more.
 ---
+ ##  [Cgroups, namespaces and more](https://www.youtube.com/watch?v=sK5i-N34im8)- A well presented at DockerCon 2015.
+
+![Event image](./assets/cgroup.png)
+
+***
+ ##  [Deep dive into docker storage drivers](https://www.youtube.com/watch?v=9oh_M11-foU)- How do those layers you see in images work - Copy on write. 
+
+![Event image](./assets/docker_storage.png)
+
+***
  ##  [Kubernetes Deconstructed- A high level overview](https://vimeo.com/245778144/4d1d597c5e)- Probably one of the best talks on kubernetes.
 
 ![Event image](./assets/1.png)
