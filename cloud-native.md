@@ -8,6 +8,10 @@
  ##  [Deep dive into docker storage drivers](https://www.youtube.com/watch?v=9oh_M11-foU)- How do those layers you see in images work - Copy on write. 
 
 ![Event image](./assets/docker_storage.png)
+***
+ ##  [Types of docker networking modes](https://www.youtube.com/watch?v=bKFMS5C4CG0)- A good hands-on overview of 7 networking modes in docker. 
+
+![Event image](./assets/docker-net.png)
 
 ***
  ##  [Kubernetes Deconstructed- A high level overview](https://vimeo.com/245778144/4d1d597c5e)- Probably one of the best talks on kubernetes.
