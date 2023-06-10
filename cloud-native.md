@@ -1,5 +1,8 @@
  # Kubernetes, Docker and other CNCF project related resources and more.
 ---
+[Cgroups, namespaces and Overlayfs](https://www.youtube.com/watch?v=x1npPrzyKfs) - Not for absolute beginners but a good deep dive into the internals of containers.
+
+***
  ##  [Cgroups, namespaces and more](https://www.youtube.com/watch?v=sK5i-N34im8)- A well presented at DockerCon 2015.
 
 ![Event image](./assets/cgroup.png)
